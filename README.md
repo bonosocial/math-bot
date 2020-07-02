@@ -6,8 +6,7 @@
 ## Description
 
 LINEのMessaging APIを利用して作成中です．
-以下のIDを友だち検索すると利用できます．
-ID:@052jfwyz
+ID:@052jfwyzを友だち検索すると利用できます．
 
 ## Contribution
 
