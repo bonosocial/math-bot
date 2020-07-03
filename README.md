@@ -5,8 +5,11 @@
 
 ## Description
 
-LINEのMessaging APIを利用して作成中です．
+LINEのMessaging APIを利用しています．  
 ID:@052jfwyzを友だち検索すると利用できます．  
+ここに置いてあるのは院試問題の画像とヒント用のテキストファイルだけです．  
+pythonで書いたサーバ側の処理はここには置いていません． 
+
 
 ## Contribution
 
